@@ -216,16 +216,6 @@
                         </ul>
                     </div>
                     <div class="col-12 col-sm-6 col-md-3">
-                        <h6>Categories</h6>
-                        <ul class="list-unstyled">
-                            <li><a href="#" style="color: white;">Categories</a></li>
-                            <li><a href="#" style="color: white;">Categories</a></li>
-                            <li><a href="#" style="color: white;">Categories</a></li>
-                            <li><a href="#" style="color: white;">Categories</a></li>
-                            <li><a href="#" style="color: white;">Categories</a></li>
-                        </ul>
-                    </div>
-                    <div class="col-12 col-sm-6 col-md-3">
                         <h6>Follow Us</h6>
                         <ul class="list-unstyled">
                             <li><a href="#" style="color: white;">Facebook</a></li>
@@ -248,7 +238,7 @@
                 <div class="row">
                     <div class="col-12 col-sm-6 col-md-9">
                         <ul class="list-inline">
-                            <li class="list-inline-item">&copy; <span id="year"></span> XYZ Designs, Ltd.</li>
+                            <li class="list-inline-item">&copy; <span id="year"></span> sportsnepal.com </li>
                             <li class="list-inline-item">All Rights Reserved</li>
                             <li class="list-inline-item"><a href="#" style="color: white;">Terms, Conditions and Privacy Policy</a>.</li>
                         </ul>
