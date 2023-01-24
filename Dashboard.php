@@ -238,10 +238,10 @@
                     <div class="col-12 col-sm-6 col-md-3">
                         <h6>Our Location</h6>
                         <address>
-                            <strong>Kathmandu Metropolitan Complex</strong><br />
-                            Wagle Chowk-35, Tripureswor<br />
-                            Kathmandu, Nepal.<br />
-                            <abbr title="Telephone">T:</abbr><a href="tel:+977014455678" style="color: white;"> +(977) 01-4455678</a> <abbr title="Email">E:</abbr><a href="mailto:info@gmail.com" style="color: white;"> info@gmail.com</a>
+                            <strong>Kausaltar Madhyapur Thimi</strong><br />
+                            Balkot Bridge, Ksaultar<br />
+                            Bhaktapur, Nepal.<br />
+                            <abbr title="Telephone">T:</abbr><a href="tel:+977016655678" style="color: white;"> +(977) 01-6655678</a> <abbr title="Email">E:</abbr><a href="mailto:info@gmail.com" style="color: white;"> info@gmail.com</a>
                         </address>
                     </div>
                 </div>
